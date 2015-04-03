@@ -1,4 +1,4 @@
 judraw
 ======
 
-Java library to acces uDraw device
+Java library to acces uDraw device.
